@@ -7,7 +7,7 @@
 - set up a question-answering system that utilizes the OpenAI "gpt-3.5-turbo-instruct" model.
 
 
-# Prerequisites
+## Prerequisites
 
 - Run pip install -r requirements.txt to install the necessary Python libraries.
 - Create a folder named 'documents' to store your PDFs.
