@@ -10,4 +10,4 @@ project workflow:
     
 - these vectors are stored in vector search db, we will be using Pinecone
 
-- sets up a question-answering system that utilizes the OpenAI "gpt-3.5-turbo-instruct" model.
+- set up a question-answering system that utilizes the OpenAI "gpt-3.5-turbo-instruct" model.
